@@ -36,26 +36,26 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 
 ---
 
 ### 🌐 Let’s Link Up
 
 - 🌍 [Portfolio](https://shaivi-jain-wjop.vercel.app/)
-- 🐦 [Twitter](https://twitter.com/shaivijain_)
+- 🐦 [Twitter](https://x.com/ShaiviJain17)
 - 📩 [Email](mailto:shaivicseai@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shaivi-jain/)
 
 ---
 
-### 📈 GitHub Stats That Slay
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaivi1706&show_icons=true&theme=radical&count_private=true" alt="shaivi-jain's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaivi1706&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaivi1706&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
