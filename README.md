@@ -71,14 +71,6 @@
 
 ---
 
-### 🌟 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaivi1706&color=blueviolet" alt="Profile Views" />
-</p>
-
----
-
 <p align="center">
   <i>“May your code be clean and your coffee strong.” ☕💻</i>
 </p>
