@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hey, I'm Shaivi Jain 🌟</h1>
 <p align="center">
   💻 Full Stack Developer <br>
-  🤖 AIML Enthusiast • 📚 DSA Addict • 🧠 Code Therapist
+  🤖 AIML Enthusiast • 📚 DSA Addict • 🧠 Problem Solver
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ### 🚀 Projects That Spark Joy
 > _Building with empathy, intention & a sprinkle of stardust_
 
-- 🧠 **[Equilibrium](https://github.com/shaivi-jain/Equilibrium)** – AI-powered career assistant to get jobs, enhance resume and get course recommendations
-- 💖 **[HealthEase](https://github.com/shaivi-jain/HealthEase)** – A modern health management platform enabling patients and doctors to securely manage medical records.
-- 🔮 **[InnerSpark](https://github.com/shaivi-jain/InnerSpark)** – Mindfulness + productivity platform
+- 🧠 **[Equilibrium](https://github.com/shaivi1706/Equilibrium)** – AI-powered career assistant to get jobs, enhance resume and get course recommendations
+- 💖 **[HealthEase](https://github.com/shaivi1706/HealthEase)** – A modern health management platform enabling patients and doctors to securely manage medical records.
+- 🔮 **[InnerSpark](https://github.com/shaivi1706/InnerSpark)** – Mindfulness + productivity platform
 
 ---
 
